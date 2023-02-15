@@ -53,7 +53,6 @@ export default function Home() {
           <div className='fontBold'>Be Ready</div>
           <div className='fontBold'>No one can stop you.</div>
           <button className='letsPlay' onClick={play}>Lets Play</button>
-          <button className='contactUs'>Contact Us</button>
         </div>
 
       </div>
