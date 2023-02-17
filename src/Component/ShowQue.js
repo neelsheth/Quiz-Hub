@@ -27,7 +27,6 @@ export default function ShowQue(props) {
                     setSec(59);
                 }
                 else {
-                    console.log(minutes);
                     alert("Time Out");
                     alert("your score is " + score);
                     props.gameover();
